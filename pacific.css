@@ -1,0 +1,26 @@
+body {
+  /* bcg#fff */
+  background-color: #fff;
+  /* c#555 */
+  color: #555;
+}
+header {
+  /* bcg#002171 */
+  background-color: #002171;
+  color: #fff;
+}
+nav {
+  background-color: #bbdefb; /* bgc#bbdefb */
+}
+h1 {
+  margin-bottom: 0; /* mb0 */
+}
+h2 {
+  color: #1976d2; /* c1976d2 */
+}
+dt {
+  color: #002171; /* c#002171 */
+}
+.resort {
+  color: #1976d2; /* c#1976d2 */
+}
